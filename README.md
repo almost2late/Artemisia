@@ -4,13 +4,13 @@ Transformer-based dialog models work better and we recommend using them instead 
 
 ---
 
-## CakeChat: Emotional Generative Dialog System
+## Artemisia: Emotional Generative Dialog System
 
-CakeChat is a backend for chatbots that are able to express emotions via conversations.
+Artemisia uses CakeChat as its a backend so She is able to express emotions via conversations.
 
 ![CakeChat representation](https://user-images.githubusercontent.com/2272790/57650691-3a8b9280-7580-11e9-9b60-ae3b28692c05.png)
 
-CakeChat is built on [Keras](https://keras.io/) and [Tensorflow](https://www.tensorflow.org).
+Artemisia is built on CakeChat which is build on [Keras](https://keras.io/) and [Tensorflow](https://www.tensorflow.org).
 
 The code is flexible and allows to condition model's responses by an arbitrary categorical variable.
 For example, you can train your own persona-based neural conversational model[<sup>\[1\]</sup>](#f1)
